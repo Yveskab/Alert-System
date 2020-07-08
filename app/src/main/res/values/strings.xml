@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Alert System</string>
+    <string name="panick_button"> Panick </string>
+    <string name="app_name_text">Armed Robbery</string>
+    <string name="my_button">For Me!</string>
+    <string name="neighbor_button">For Someone Else!</string>
+    <string name="armed_robbery_btn">Armed"\n"Robbery</string>
+    <string name="medical_button">Assistance Medical</string>
+    <string name="medical_btn">Medical</string>
+    <string name="other_emergency_btn">Other Emergency</string>
+    <string name="MainPanicButton">Bouton de panique principal</string>
+    <string name="armedCriminal">Vole à main armé</string>
+    <string name="Criminal">Bandit</string>
+    <string name="alertOnBehalfOfSomeone">Alerter pour quelqu\'un</string>
+    <string name="non_emergency_btn">Non Emergency"\n"Communication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location">Recherchez</string>
+    <string name="address">tapez une address</string>
 </resources>
